@@ -4,7 +4,7 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 @Data
-public class BuyStock {
+public class BuyStockDto {
 
 
 	private Integer id;
